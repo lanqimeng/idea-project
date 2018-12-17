@@ -7,4 +7,10 @@ package com.itheima.domain;
         System.out.println("111111111111");
         System.out.println("111111111111");
     }
+
+    public void test(){
+        System.out.println("hahahahahah");
+        int a = 10;
+        a+=a;
+    }
 }
