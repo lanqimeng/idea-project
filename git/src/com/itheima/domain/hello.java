@@ -12,5 +12,6 @@ package com.itheima.domain;
         System.out.println("hahahahahah");
         int a = 10;
         a+=a;
+        System.out.println("克隆的修改");
     }
 }
