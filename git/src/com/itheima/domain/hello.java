@@ -16,5 +16,7 @@ package com.itheima.domain;
         System.out.println("克隆的修改");
         System.out.println("克隆的修改");
         System.out.println("克隆的修改");
+        System.out.println("本地的修改");
+
     }
 }
