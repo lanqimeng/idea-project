@@ -13,5 +13,8 @@ package com.itheima.domain;
         int a = 10;
         a+=a;
         System.out.println("克隆的修改");
+        System.out.println("克隆的修改");
+        System.out.println("克隆的修改");
+        System.out.println("克隆的修改");
     }
 }
